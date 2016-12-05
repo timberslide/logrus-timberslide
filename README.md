@@ -4,7 +4,7 @@ logrus-timberslide is a Logrus hook for Timberslide!
 
 Example usage:
 
-```
+```go
 package main
 
 import (
