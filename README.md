@@ -1,8 +1,14 @@
 # logrus-timberslide
 
-logrus-timberslide is a Logrus hook for Timberslide!
+logrus-timberslide is a Logrus hook for Timberslide! Visit [Timberslide](https://app.timberslide.com) to get a token.
 
-Example usage:
+## Install
+
+```
+go get -u github.com/timberslide/logrus-timberslide
+```
+
+## Example
 
 ```go
 package main
